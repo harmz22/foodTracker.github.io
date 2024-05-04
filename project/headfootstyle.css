@@ -1,0 +1,56 @@
+body{ 
+    background-image: url("Contour.png");
+    font-family: 'Roboto', sans-serif;
+    font: 14px; 
+    background-color:#FFFFFF;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.head {
+    padding-bottom: 200px;
+}
+.logo{
+    margin-right: auto;
+}
+.date-time {
+    margin-left: auto; /* Push the date-time to the right */
+}
+
+.backwrap{
+    width: 620px;
+    background-color:#09161E;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+}
+        
+.wrapper { 
+    background-color:#f1f1f1;
+    width: 575px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-color:#E85A4F;
+    color: #E85A4F;
+    padding-bottom: 20px;
+   
+}
+.container {
+    color: #E85A4F; 
+}
+.row {
+    color: #E85A4F; 
+
+}
+table tr td:last-child{
+    width: 200px;
+}
+
+canvas {
+    max-width: 500px;
+    max-height: 500px;
+    margin: auto;
+    display: block;
+}
+
